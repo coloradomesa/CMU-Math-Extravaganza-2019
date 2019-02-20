@@ -35,11 +35,11 @@ while not done:
     x=x+vx*dt  # update positions with velocities for dt seconds
     y=y+vy*dt
     if x < 0:
-        x=800-x
+        x=800+x
     if x > 800:
         x=x-800
     if y < 0:
-        y=600-y
+        y=600+y
     if y > 600:
         y=y-600
     screen.blit(background_image, background_position)
