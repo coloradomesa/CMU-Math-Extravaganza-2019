@@ -25,7 +25,7 @@ while not done:
         if event.type == pygame.QUIT:
             done = True
         elif event.type == pygame.MOUSEBUTTONDOWN:
-            click_sound.play()
+            #click_sound.play()
             vy=vy-50  # jump up
     end=pygame.time.get_ticks();
     dt=(end-start)/1000.0 # slice of time in seconds
