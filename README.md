@@ -7,14 +7,14 @@
 - [ ] Build Print Off (Deadline is Friday)
 - [ ] Create "layers" of improvement for demos we give them
     - We should build some/all of these ourselves in separate files and keep them around for demos or examples
-  - [ ] Increase Character Vel/Accelerations
-  - [ ] Change Character Appearance
+  - [x] Increase Character Vel/Accelerations
+  - [ ] Change Character Appearance -> Karl, help pls
   - [x] Change Background
   - [ ] Do monitors have speakers? -> Change noises?
   - [x] Change buttons used (WASD?)
   - [x] Change Dimensions of Window
     - I like this one because they would subsequently have to also change some parts in the code that move the character when they go offscreen
-  - [ ] Add obstacles
+  - [x] Add obstacles -> Added but needs graphical improvement
   - [x] Change so game is...
     - "underwater" -> -1 * ay + Alternate Buttons
   - [ ] Add timer at top
