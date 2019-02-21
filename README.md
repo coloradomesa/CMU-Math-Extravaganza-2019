@@ -7,6 +7,7 @@
 - [ ] Build Print Off (Deadline is Friday)
 - [ ] Create "layers" of improvement for demos we give them
     - We should build some/all of these ourselves in separate files and keep them around for demos or examples
+  - [ ] Increase Character Vel/Accelerations
   - [ ] Change Character Color
   - [ ] Change Background
   - [ ] Do monitors have speakers? -> Change noises?
