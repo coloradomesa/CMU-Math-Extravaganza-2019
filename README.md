@@ -8,15 +8,14 @@
 - [ ] Create "layers" of improvement for demos we give them
     - We should build some/all of these ourselves in separate files and keep them around for demos or examples
   - [ ] Increase Character Vel/Accelerations
-  - [ ] Change Character Color
-  - [ ] Change Background
+  - [ ] Change Character Appearance
+  - [x] Change Background
   - [ ] Do monitors have speakers? -> Change noises?
-  - [ ] Change buttons used (WASD?)
-  - [ ] Change Dimensions of Window
+  - [x] Change buttons used (WASD?)
+  - [x] Change Dimensions of Window
     - I like this one because they would subsequently have to also change some parts in the code that move the character when they go offscreen
   - [ ] Add obstacles
-  - [ ] Change so game is...
-    - "underwater" -> -1 * ay
-    - "falling" in the sense that you are dodging obstacles while moving vertically -> changes effect of button presses left and right
+  - [x] Change so game is...
+    - "underwater" -> -1 * ay + Alternate Buttons
   - [ ] Add timer at top
     - I have no intention of actually using this one, maybe as a cool demo at the end showing what you can do with so little
