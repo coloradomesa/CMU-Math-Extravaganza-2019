@@ -1,8 +1,11 @@
 # CMU-Math-Extravaganza-2019
 ### 28 February 2019
-
+### Ideas:
+- For the Pis that have the sense hats, we could have it automatically boot into a menu that appears on the sense hats themselves.  That way they won't require monitors.
 ### TODO:
 - [ ] Set up network boot with PiServer https://www.raspberrypi.org/blog/piserver/
+    - [x] Proof of Concept
+    - [ ] Set up PXE boot on every Pi and test
 - [ ] Decide demos (Some at https://github.com/coloradomesa/math-extravaganza-2018)
 - [ ] Build Print Off (Deadline is Friday)
 - [ ] Create "layers" of improvement for demos we give them
